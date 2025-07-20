@@ -1,7 +1,7 @@
 ## New York City Airbnb Open Data Analysis 
 
 
-This project presents a Tableau visualization for analyzing the [New York City Airbnb Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) from Kaggle. 
+- **This project presents a Tableau visualization for analyzing the [New York City Airbnb Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) from Kaggle**. 
 ---
 
 ### Project Overview
@@ -35,4 +35,4 @@ The largest average Price is in Manhattan (196.9), and the smallest is in the Br
 git clone https://github.com/marianaprytula/New_York_City_Airbnb_Open_Data_Analysis-.git
 ```
 
-    Upload Workbook to Tableau Public (Airbnb_Dataset_Visuals.twbx) or use the following link [Project](https://dub01.online.tableau.com/t/prytulamarianna46-185935c9ad/authoring/Airbnb_Dataset_Visuals/Sheet8/Dashboard%202#1) to open the visuals.
+#### Upload Workbook to Tableau Public (Airbnb_Dataset_Visuals.twbx) or use the following link [Project](https://dub01.online.tableau.com/t/prytulamarianna46-185935c9ad/authoring/Airbnb_Dataset_Visuals/Sheet8/Dashboard%202#1) to open the visuals.
